@@ -188,14 +188,3 @@ Parallel execution benefits large datasets more than small ones.
 
 
 ---
-
-Now this is **100% proper Markdown file format** ✅  
-Just paste into `README.md` and save.
-
-If you want, I can also give you:
-
-- Professional GitHub-style badges version  
-- Journal submission formatted version  
-- Minimal clean academic version  
-
-Tell me which one you need 😎
