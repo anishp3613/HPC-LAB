@@ -266,5 +266,8 @@ This project demonstrates practical use of MPI for parallel programming and show
 # 👨‍💻 Author
 
 Anish Phatake
+Harsh Kadam 
+Pruthviraj Pawar
+Sachin Chavan
 BE Computer Engineering
 Mini Project – High Performance Computing
